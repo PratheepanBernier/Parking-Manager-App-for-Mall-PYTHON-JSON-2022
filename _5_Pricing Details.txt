@@ -1,0 +1,16 @@
+Pricing details :
+	Initial price(for first 3 hours) :
+		Rs.20 - bike
+		Rs.30 - car/auto
+		Rs.50 - bus/van
+	extra price(for next every 2 hours) :
+		Rs.10 for all vehicles.
+
+Fine details :
+	Fine per day :
+		Rs.150 - bike
+		Rs.200- car/auto
+		Rs.250 - bus/van
+
+	for more than 10 days :
+		contact nearest police station to get back the vehicle 
